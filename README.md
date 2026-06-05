@@ -25,6 +25,9 @@ Projeto desenvolvido como desafio da DIO utilizando Microsoft Excel para anális
 ### Dashboard
 ![Dashboard](Dashboard.png)
 
+## Aprendizados
+Durante o desenvolvimento deste projeto foi possível praticar a criação de dashboards interativos, a utilização de tabelas dinâmicas, segmentações de dados e técnicas de visualização para transformar dados em informações relevantes.
+
 ---
 
 ## Autora
