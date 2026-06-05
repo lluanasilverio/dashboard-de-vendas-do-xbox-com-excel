@@ -1,4 +1,5 @@
 # Projeto DIO TOTVS - Dashboard de Vendas do Xbox com Excel
+---
 
 ## Descrição
 Projeto desenvolvido como desafio da DIO utilizando Microsoft Excel para análise e visualização de dados.
@@ -23,5 +24,7 @@ Projeto desenvolvido como desafio da DIO utilizando Microsoft Excel para anális
 ### Dashboard
 ![Dashboard](Dashboard.png)
 
+---
 ## Autora
 Luana Silvério de Farias
+---
