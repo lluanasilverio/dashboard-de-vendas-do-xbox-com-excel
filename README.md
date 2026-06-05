@@ -3,6 +3,8 @@
 ## Descrição
 Projeto desenvolvido como desafio da DIO utilizando Microsoft Excel para análise e visualização de dados.
 
+---
+
 ## Objetivos
 - Organizar dados de vendas
 - Criar indicadores de desempenho
