@@ -24,6 +24,7 @@ Projeto desenvolvido como desafio da DIO utilizando Microsoft Excel para anális
 ![Dashboard](Dashboard.png)
 
 ---
-**Autora**
+
+## Autora
+
 Luana Silvério de Farias
----
